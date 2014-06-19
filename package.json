@@ -1,0 +1,14 @@
+{
+  "name": "AWSnodejs",
+  "version": "0.0.0",
+  "description": "AWSnodejs",
+  "main": "server.js",
+  "author": {
+    "name": "Krzys",
+    "email": ""
+  },
+  "dependencies":{
+  "express": "~4.4.3",
+  "ftp":"~0.3.7"
+  }
+}
